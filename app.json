@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Village",
+    "slug": "village",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F4EEE2"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.village.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F4EEE2"
+      },
+      "package": "com.village.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
